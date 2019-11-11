@@ -1,0 +1,12 @@
+D:\DBMS\DBMSNC\QLNC\QLNC\bin\Debug\QLNC.exe.config
+D:\DBMS\DBMSNC\QLNC\QLNC\bin\Debug\QLNC.exe
+D:\DBMS\DBMSNC\QLNC\QLNC\bin\Debug\QLNC.pdb
+D:\DBMS\DBMSNC\QLNC\QLNC\obj\Debug\QLNC.csprojAssemblyReference.cache
+D:\DBMS\DBMSNC\QLNC\QLNC\obj\Debug\QLNC.Admin.resources
+D:\DBMS\DBMSNC\QLNC\QLNC\obj\Debug\QLNC.dangnhap.resources
+D:\DBMS\DBMSNC\QLNC\QLNC\obj\Debug\QLNC.Form1.resources
+D:\DBMS\DBMSNC\QLNC\QLNC\obj\Debug\QLNC.Form2.resources
+D:\DBMS\DBMSNC\QLNC\QLNC\obj\Debug\QLNC.Properties.Resources.resources
+D:\DBMS\DBMSNC\QLNC\QLNC\obj\Debug\QLNC.csproj.GenerateResource.cache
+D:\DBMS\DBMSNC\QLNC\QLNC\obj\Debug\QLNC.exe
+D:\DBMS\DBMSNC\QLNC\QLNC\obj\Debug\QLNC.pdb
